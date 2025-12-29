@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Sonos Teardown
-description: Conducted detailed teardown analysis of Sonos Era speaker, documenting internal components, driver configuration, and PCB design. Created technical documentation with photos and assembly insights for engineering reference. 
+title: Millennium Space Systems Internship
+description: Wrote a Python application to replace the former tedious method of generating thermal profiles for thermal cycle test procedures. The application allows environmental test engineers to select their level of testing (protoqualification, qualification, acceptance), required temperatures, and other parameters to generate the necessary profile and labels. The application cut the lengthy process from 4 hours to 1 minute. 
 skills: 
-  - drumel
-  - microprobing
-  - Electronics Teardown
-  - PCB analysis
-  - audio system design
+  - Python
+  - Manufacturo
+  - Test authoring
+  - Data aquisition/analysis
+  - Aerospace test lifecycle
 
 main-image: /sonos.png
 ---
