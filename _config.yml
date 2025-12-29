@@ -32,7 +32,7 @@ resume-url: https://drive.google.com/file/d/1l9Nw0lLd1Lfkx-69ybMzHVT1ONXA3CGg/vi
 # Set up external links - this will show up as small icons next to your name.
 
 external-links:    # input only your own url slug. The icons with missing entries will not appear.
-  linkedin: https://www.linkedin.com/in/delaney-seligmann
+  linkedin: delaney-seligmann
   
 
 # Skills Section - Add the list of your Skills by categories/tools. The indentation for each level needs to be precise. 
