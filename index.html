@@ -7,7 +7,22 @@ layout: wrapper
 
 {% include hero.html%}
 
+<form action="{{ site.formspree-key }}" method="POST">
+  <input
+    type="email"
+    name="email"
+    placeholder="Your email"
+    required
+  >
 
+  <textarea
+    name="message"
+    placeholder="Your message"
+    required
+  ></textarea>
+
+  <button type="submit">Send</button>
+</form>
 
 <div class="arrow"> 
     <a href="#projects">
