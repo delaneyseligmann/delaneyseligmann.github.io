@@ -9,12 +9,11 @@ skills:
 main-image: /interimthermo.png
 ---
 
----
-
 To wrap up our sophomore year Thermodynamics course, a group of three other students and I were tasked with designing and evaluating a fossil-fuel-free utility network for a hypothetical new district being built in a large city. The mission was to design a process providing chilled and hot water to buildings, with an additional option to provide steam to an industrial park for process heating. We were given pressure, temperature, and volume rate requirements in addition to electricity and water prices. Professor Hurt also provided us with a proprietary refrigerant, "Hurt-o-Therm", and supplied us with its thermodynamic properties.
 <br>
 With a broad project scope, I proposed starting with our textbook's example of a vapor-compression refrigeration cycle, using Hurt-O-Therm as the refrigerant. The focus was primarily on creating the chilled water first, then designing the rest of the components for the hot water around that portion. To start, the economic component of the process was neglected, and the goal was to create a functional system that produced all required products in their entirety. As a group, we iterated through multiple designs, testing which one yielded the most favorable result. 
-  Midway through the project, we submitted a proposal and received feedback from a TA. 
+<br>
+Midway through the project, we submitted a proposal and received feedback from a TA. 
 
 {% include image-gallery.html images="/interimthermo.png" height="400" %} 
 
