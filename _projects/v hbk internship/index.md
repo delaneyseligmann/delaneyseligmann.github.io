@@ -1,7 +1,7 @@
 ---
 layout: post
 title: HBK Engineering Internship
-description:  Internship summer 2024 in Oakbrook, IL
+description:  Electrical engineering internship in Oakbrook, IL from June to August 2024
 skills: 
 - AutoCAD
 - Power Systems
