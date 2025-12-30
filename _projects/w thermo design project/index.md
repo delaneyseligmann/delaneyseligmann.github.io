@@ -6,5 +6,5 @@ skills:
 - thermal systems development
 - design iteration
 - cost analysis
-main-image: /project.webp 
+main-image: /interimthermo.png
 ---
