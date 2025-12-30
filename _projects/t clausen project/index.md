@@ -6,7 +6,7 @@ skills:
 - skill 1
 - skill 2
 
-main-image: /project.webp 
+main-image: /clausencover.png
 
 ---
 
