@@ -1,7 +1,7 @@
 ---
 layout: post
-title: project title
-description:  short description of the project
+title: HBK Engineering Internship
+description:  Internship summer 2024 in Oakbrook, IL
 skills: 
 - AutoCAD
 - Power Systems
@@ -14,5 +14,11 @@ ___
 ## 15500 106th Ave, Orland Park
 Created a Service Entrance Location (SEL) document in AutoCAD, which shows all the electrical services on the property.
 
+{% include image-gallery.html images="hbk document.png" height="400" %} 
+
 ## 26829 W Eames St, Channahon
 Created an SEL and Exhibit A documents in AutoCAD for Tractor Supply Co.
+
+{% include image-gallery.html images="SEL HBK.png" height="400" %} 
+{% include image-gallery.html images="Exhibit A HBK.png" height="400" %} 
+
