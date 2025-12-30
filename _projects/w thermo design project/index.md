@@ -19,7 +19,7 @@ With a broad project scope, I proposed starting with our textbook's example of a
 <br>
 Midway through the project, we submitted a proposal and received feedback from a TA. 
 
-{% include image-gallery.html images="interimthermo.png" height="400" %} 
+{% include image-gallery.html images="interimthermo" height="400" %} 
 
 After receiving feedback from our first design, the main portion we sought to optimize was the two-stage transfer of heat to generate the optional saturated steam. The process of transferring heat twice is inefficient, so we decided to take the extra heat in the Hurt-O-Therm and split the stream. This split decreased the capital costs of the project while retaining the excess steam generated and optimizing the use of the Hurt-O-Therm in our design.
 
