@@ -3,9 +3,9 @@ layout: post
 title: Thermodynamics Design Competition
 description:  Final project for sophomore thermodynamics course
 skills: 
-- thermal systems development
-- design iteration
-- cost analysis
+- Thermal systems development
+- Design iteration
+- Cost analysis
 main-image: /interimthermo.png
 ---
 
@@ -22,5 +22,7 @@ After receiving feedback from our first design, the main portion we sought to op
 {% include image-gallery.html images="thermocycle.png" height="400" %} 
 
 As a result of the alterations made to our final design, the area of the heat exchangers decreased, and thus capital cost went down from $11,243,774.60 to $10,437,692.60. Additionally, the amount of steam that was produced slightly increased and, in turn, increased the gross revenue by a small amount. Overall, the effect that this improvement had on our design was an increase in net present value to $422,191,963.57. Since both iterations of our design yielded an NPV term above zero, with no thermodynamic laws broken, they are both feasible and profitable designs for a fossil-fuel-free urban utility network in the long run. 
-  This was a collaborative effort. Two group members focused on the economic side of the project, while another member and I contributed the majority of the thermodynamic calculations and diagram labeling.
-  Together, our group of 4 designed the most efficient and profitable thermal system in the 88-person class. 
+<br> 
+This was a collaborative effort. Two group members focused on the economic side of the project, while another member and I contributed the majority of the thermodynamic calculations and diagram labeling.
+<br>
+>Together, our group of 4 designed the most efficient and profitable thermal system in the 88-person class. 
