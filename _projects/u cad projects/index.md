@@ -7,6 +7,10 @@ skills:
 main-image: /flywheel.png
 ---
 ___
+## Final Project
+Collaborated with group of 10 engineers to rapidly model our professor's Mainstays 6-Speed Blender. I was responsible for the blades, pitcher, lid, and measuring cup. Drawings were produced for each component and a tolerance analysis was required for the motor assembly. 
+
+{% include image-gallery.html images="blender.png" height="400" %} 
 
 ## Individual Project
 Tasked with modeling an 8-12 component object. We were required to choose an object in our possession to take precise measurements of using a caliper. 
