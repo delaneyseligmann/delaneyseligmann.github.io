@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Thermodynamics Design Competition
-description:  Final project for sophomore thermodynamics course
+description:  Final project for sophomore thermodynamics course spring 2023
 skills: 
 - Thermal systems development
 - Design iteration
