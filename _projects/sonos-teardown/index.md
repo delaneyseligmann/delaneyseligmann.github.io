@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Millennium Space Systems Internship
-description: Environmental Test Engineering Internship in El Segundo from June to August 2025
+description: Environmental Test Engineering Internship in El Segundo, CA from June to August 2025
 skills: 
   - Python
   - Manufacturo
