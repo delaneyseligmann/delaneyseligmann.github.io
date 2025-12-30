@@ -5,6 +5,7 @@ description:  Final project for Advanced Engineering Mechanics course spring 202
 skills: 
 - skill 1
 - skill 2
+
 main-image: /project.webp 
 
 ---
