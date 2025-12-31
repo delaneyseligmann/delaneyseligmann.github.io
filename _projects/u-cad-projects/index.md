@@ -4,7 +4,7 @@ title: CAD Projects
 description:  Models from Computer Aided Visualization & Design course spring 2024
 skills: 
 - Solidworks
-main-image: /wrench.png
+main-image: /flywheel.png
 ---
 ___
 ## Final Project
