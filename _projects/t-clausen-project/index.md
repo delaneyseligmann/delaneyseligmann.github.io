@@ -3,9 +3,9 @@ layout: post
 title: Buckling Strength Enhancement with a Clausen Profile
 description: Final project for Advanced Engineering Mechanics course spring 2024
 skills: 
-- 3D Printing
+- 3D printing
 - Wolfram Mathematica
-- Instron Testing
+- Instron testing
 main-image: /clauseninstron.png
 ---
 ___
@@ -15,8 +15,7 @@ Hence, the basis for our project: How does the critical buckling load of a Clau
 <br>
 While my partners focused on CAD models for 3D printing, I worked with stress equations and evaluated the limitations of Lagrange's original determination of the cylinder as the strongest column. The Clausen column was determined to be 33% stronger than the cylindrical column.
 
-{% include image-gallery.html images="clausencolumn.png" height="400" %} 
-{% include image-gallery.html images="clauseninstron.png" height="400" %} 
+{% include image-gallery.html images="clausencolumn.png, clauseninstron.png" height="400" %} 
 
 To test this computation, we used 3D-printed columns and a 500N Instron. My partners led the testing endeavor while I processed the Instron data in MATLAB. We found the Clausen column was approximately 17% stronger than the cylindrical column but less rotation-resistant.
 <br>
