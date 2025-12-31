@@ -8,11 +8,12 @@ skills:
 main-image: /bse.png
 ---
 ___
-In my senior fall, I took Advanced Numerical Methods for Data, Simulation, and Optimization. For the final project, I challenged myself to combine the course material with my growing fascination with Guidance, Navigation, and Control. This resulted in my attempt to optimize the trajectory of SpaceX's Falcon 9 rocket to low Earth orbit. LEO was chosen because the majority of satellites populate this orbit. 
+In April 2021, NASA agreed to provide launch space on a future rocket for a satellite designed and built by Brown University students to test the performance of next-generation solar cells in space. The mission, known as PVDX (Perovskite Visuals and Degradation eXperiment), also includes an educational outreach component for K–12 students. Participating students can send short messages to the satellite, which are displayed on an onboard LED panel. A camera mounted on an articulated arm then photographs the display against the backdrop of Earth from orbit, and the image is transmitted back to the students from space.
 <br>
-words
+<br>
+I joined BSE spring of my freshman year in 2021. My main focus was prototyping the mechanical arm and iterating through different spring designs in solidworks, prior to our switch to onshape after gaining their sponsorship. 
 
-{% include image-gallery.html images="F9graph.png, rocketgraph.png" height="400" %} 
+{% include image-gallery.html images="bse.png" height="400" %} 
 
 words
 
