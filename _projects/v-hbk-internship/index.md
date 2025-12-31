@@ -4,9 +4,9 @@ title: HBK Engineering Internship
 description:  Electrical engineering internship in Oakbrook, IL from June to August 2023
 skills: 
 - AutoCAD
-- Power Systems
+- Power systems
 - IKE PoleForman
-- Load Analysis
+- Load analysis
 main-image: /hbk-logo.png
 ---
 ___
