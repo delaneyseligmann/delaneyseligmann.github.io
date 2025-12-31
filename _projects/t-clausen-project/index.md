@@ -20,3 +20,5 @@ While my partners focused on CAD models for 3D printing, I worked with stress eq
 To test this computation, we used 3D-printed columns and a 500N Instron. My partners led the testing endeavor while I processed the Instron data in MATLAB. We found the Clausen column was approximately 17% stronger than the cylindrical column but less rotation-resistant.
 <br>
 To finish our presentation, we performed a demo using buckets of sand and a 3D-printed setup to demonstrate the Clausen's superior buckling resistance, successfully proving our findings. 
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQxtZPiXG_SY-c0NNOenKvvZDMyFjUGrK-RwXsuH-Oo0Ff8UNR7dStumwvsNIK6mroH1CZNn9UaWFnC/pubembed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" sandbox="allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox"></iframe>
