@@ -7,7 +7,10 @@ skills:
 - Contamination Control Engineering
 - C++
 - Autocoding
+- Lumped thermal capacitance modelling
+- Transient analysis
 main-image: /ngp.png
 ---
 ___
-While awaiting statement of work (ability to hop on certain projects), I spend 50% of my time as a Contamination Control Engineer (CCE), mainly supporting NG OPIR Polar. The other 50% of my time is spent supporting an attitude control systems (ACS) flight software (FSW) auto-coding project, turning guidance, navigation, & control (GNC) MATLAB code to FSW C/C++.
+
+Splitting time as a Contamination Control Engineer (CCE), mainly supporting NG OPIR Polar. Also supporting an attitude control systems (ACS) flight software (FSW) auto-coding project, turning guidance, navigation, & control (GNC) MATLAB code to FSW C/C++.
