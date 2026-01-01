@@ -21,3 +21,4 @@ I joined BSE spring of my freshman year in 2021. My main focus was prototyping t
 
 At the start of my junior year, fall 2023, I took on the role as testing lead. Responsibilities included determining necessary test levels, creating a test setup for arm functionality in both ambient and vacuum, and coordinating with different points of contact for testing fascilities. Though we were able to coordinate a suitable thermal vacuum chamber through a research lab on campus, we failed to find an affordable and convenient means for vibration testing. When in doubt, build your own!
 
+{% include image-gallery.html images="IMG_6665.mp4" height="400" %}
