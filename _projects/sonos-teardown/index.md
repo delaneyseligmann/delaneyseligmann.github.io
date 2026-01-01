@@ -28,3 +28,11 @@ Authored test plans and procedures for MIL-STD-1540, GSFC-STD-7000A, and SMC-S-0
 
 {% include image-gallery.html images="manufacturo.png" height="400" %} 
 
+## GSE
+Defined drawing review criteria for test engineers when recieving ground support equipment (GSE) drawings and 
+
+#add the development and standardization of MGSE test fixtures as well as the drawing review checklist 
+
+## TRR Presentation
+Took ownership of a product to qualification testing and composed Test Readiness Review presentation for
+engineering leadership and stakeholders
