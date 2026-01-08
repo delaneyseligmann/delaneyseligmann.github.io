@@ -13,4 +13,4 @@ main-image: /ngp.png
 ---
 ___
 
-Splitting time as a Contamination Control Engineer (CCE), mainly supporting NG OPIR Polar. Also supporting an attitude control systems (ACS) flight software (FSW) auto-coding project, turning guidance, navigation, & control (GNC) MATLAB code to FSW C/C++.
+Splitting time as a Contamination Control Engineer (CCE), supporting flight hardware. Also supporting an attitude control systems (ACS) flight software (FSW) auto-coding project, turning guidance, navigation, & control (GNC) MATLAB code to FSW C/C++.
